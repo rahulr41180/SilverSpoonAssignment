@@ -4,7 +4,7 @@ import './App.css';
 import styled from "styled-components";
 import { Features } from "./components/Features";
 import { Items } from "./components/Items";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 /*---------------------- Circle Size Data ----------------------------- */
 const circleSize = [
